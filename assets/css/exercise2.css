@@ -1,0 +1,39 @@
+#header{
+  display: block;
+  background-color: #f49e6a;
+  height: 100px;
+  overflow: auto;
+}
+.sidebar{
+  background-color: #f7bc6e;
+  width: 30%;
+  height: 250px;
+  float: left;
+}
+.content{
+  background-color: #4f7186;
+  width: 70%;
+  height: 250px;
+  float: left;
+}
+.wrapper{
+  overflow: auto;
+}
+#footer{
+  height: 75px;
+  width: 100%;
+  background-color: #b5ce57;
+
+}
+.logo{
+  width: 25%;
+  height: 25 px;
+  background-color: #ee6180;
+  float: left;
+}
+.navigation{
+  width: 50%;
+  height: 25px;
+  background-color: red;
+  float: right;
+}

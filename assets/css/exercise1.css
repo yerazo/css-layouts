@@ -1,0 +1,26 @@
+#header{
+	display: block;
+	background-color: #f49e6a;
+	height: 100px;
+}
+.sidebar{
+	background-color: #f7bc6e;
+	width: 30%;
+	height: 250px;
+	float: left;
+}
+.content{
+	background-color: #4f7186;
+	width: 70%;
+	height: 250px;
+	float: left;
+}
+.wrapper{
+	overflow: auto;
+}
+#footer{
+	height: 75px;
+	width: 100%;
+	background-color: #b5ce57;
+
+}
